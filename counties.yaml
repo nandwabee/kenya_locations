@@ -1,0 +1,13 @@
+Nairobi:
+  type: county
+Kiambu:
+  type: county
+Bungoma:
+  type: county
+  county_code: 39
+Kisii:
+  type: county
+  county_code: 45
+Busia:
+  type: county
+  county_code: 40
