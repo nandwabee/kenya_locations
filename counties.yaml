@@ -1,13 +1,36 @@
-Nairobi:
+mombasa:
+  name: Mombasa
   type: county
-Kiambu:
+  county_code: 1
+kwale:
+  name: Kwale
   type: county
-Bungoma:
+  county_code: 2
+kilifi:
+  name: Kilifi
+  type: county
+  county_code: 3
+tana_river:
+  name: 'Tana River'
+  type: county
+  county_code: 3
+kiambu:
+  name: Kiambu
+  type: county
+  county_code: 22
+bungoma:
+  name: Bungoma
   type: county
   county_code: 39
-Kisii:
-  type: county
-  county_code: 45
-Busia:
+busia:
+  name: Busia
   type: county
   county_code: 40
+kisii:
+  name: Kisii
+  type: county
+  county_code: 45
+nairobi:
+  name: Nairobi
+  type: county
+  county_code: 47
